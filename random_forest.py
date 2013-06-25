@@ -1,4 +1,7 @@
-﻿import csv
+﻿"""
+This uses RandomForest from Scikit-learn
+"""
+import csv
 import random
 from sklearn.ensemble import RandomForestClassifier
 
