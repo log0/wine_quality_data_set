@@ -3,6 +3,7 @@
 
 Dataset is provided by UCI Machine Learning Laborary : http://archive.ics.uci.edu/ml/datasets/Wine+Quality
 
+- decision_tree.py - Basic decision tree usage in PYthon via Sci-kit learn.
 - gradient_boosting_tree.py - Basic gradient boosting tree in Python via Sci-kit learn.
 - extra_trees.py - Basic extra trees classifier usage in Python via Sci-kit learn.
 - random_forest.py - Basic random forest usage in Python via Sci-kit learn, this does not yield 100% accuracy but mostly 95%.
