@@ -11,3 +11,4 @@ Dataset is provided by UCI Machine Learning Laborary : http://archive.ics.uci.ed
 - random_forest.r - Basic random forest usage in R, this yields 100% accuracy.
 - random_forest_with_variable_training_set.r - This investigates the effect of accuracy by providing different number of training set per class to train.
 - random_forest_with_variable_training_set_and_variable_trees.r - This investigates the effect of accuracy by providing different number of training set per class to train and variable number of trees in random forest.
+- stratified_k_fold_random_forest.py - Stratified K-fold with random forest.
